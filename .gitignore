@@ -1,0 +1,434 @@
+
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_paper.pdf
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_info.pdf
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/SNRforN.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/RunMe.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/ProbSuccess.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/ProbError.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/plotter.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/Parameters.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/packetneeded.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/ncombinationk.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/GenerateSuperBlock.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/GenerateOriginalPackets.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/GenerateCodedPackets.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/FindPtAndN.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/FindNoptNmax.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/DecodeSuperBlock.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/jprc_pc_code/DecodeOriginalPackets.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._SNRforN.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._RunMe.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._ProbSuccess.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._ProbError.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._plotter.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._Parameters.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._packetneeded.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._ncombinationk.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._GenerateSuperBlock.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._GenerateOriginalPackets.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._GenerateCodedPackets.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._FindPtAndN.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._FindNoptNmax.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._DecodeSuperBlock.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/jprc_pc_code/._DecodeOriginalPackets.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code/__MACOSX/._jprc_pc_code
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Packet coding/jprc_code.zip
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_paper.pdf
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_info.pdf
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/Untitled2.prj
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/Untitled1.prj
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/Stocastic_grad.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/set_signal_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/set_plot_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/set_channel_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/set_adaptive_alg_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/Run_me.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/Resample.prj
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/Resample.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/print_results.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/make_ofdm_blocks.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/detect_MFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/demod_TFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/demod_SFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/demod_PFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/demod_FFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/carrier_slider.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/multi_FFT_code/apply_channel.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._Stocastic_grad.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._set_signal_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._set_plot_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._set_channel_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._set_adaptive_alg_param.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._Run_me.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._Resample.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._print_results.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._make_ofdm_blocks.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._detect_MFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._demod_TFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._demod_SFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._demod_PFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._demod_FFFT.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._carrier_slider.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/multi_FFT_code/._apply_channel.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code/__MACOSX/._multi_FFT_code
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/OFDM_time_varying/multi_FFT_code.zip
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/Milica Stojanovic - Projects.URL
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_paper3.pdf
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_paper1.pdf
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_info.pdf
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/Simulation.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/runSimRx.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/SimMATFile/K1024_CP1_MTPSK_M4.mat
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/selectMaximallySpacedReceiver.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/PSKModulate.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/PSKDemodulate.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/PI.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/mfftMRCRLS.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/helperMultiFFTDemodulation.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/helperMultiFFTCombining.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/helperFrequencyOffsetEstimation.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/helperDifferentialAidedPrecombining.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/helperDataDetection.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/helperChannelEstimation.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/getSteering.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/getSignatureFcn.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/foeDMRCStochastic.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/foeDMRCHypothesis.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/foeDMRCCombined.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/DPSKDemod.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/differentialRxPlot.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/differentialDataDetection.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/dapRLS.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/coherentRxPlot.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/coherentDataDetection.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/MATLAB-Toolbox/Receiver-Toolbox/channelEstimation.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/helperSimParamInit.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/helperSimParamConfig.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code/helperSimMethodConfig.m
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/ICI mitigating/acoustic_ofdm_rx_code.zip
+Сторонний софт и датасеты с релаьными сигналами/Милитца/Милиса/OFDM/acoustic_ofdm_rx_info.pdf
+Сторонний софт и датасеты с релаьными сигналами/Watermark/yang2016.pdf
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/matlab/watermark.m
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/matlab/sfetch.m
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/matlab/replayfilter.m
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/matlab/pfetch.m
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_060.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_059.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_058.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_057.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_056.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_055.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_054.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_053.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_052.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_051.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_050.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_049.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_048.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_047.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_046.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_045.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_044.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_043.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_042.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_041.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_040.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_039.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_038.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_037.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_036.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_035.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_034.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_033.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_032.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_031.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_030.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_029.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_028.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_027.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_026.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_025.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_024.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_023.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_022.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_021.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_020.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_019.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_018.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_017.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_016.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_015.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_014.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_013.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_012.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_011.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_010.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_009.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_008.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_007.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_006.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_005.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_004.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_003.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_002.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/png/NOF1_001.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_060.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_059.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_058.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_057.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_056.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_055.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_054.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_053.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_052.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_051.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_050.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_049.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_048.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_047.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_046.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_045.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_044.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_043.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_042.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_041.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_040.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_039.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_038.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_037.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_036.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_035.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_034.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_033.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_032.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_031.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_030.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_029.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_028.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_027.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_026.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_025.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_024.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_023.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_022.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_021.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_020.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_019.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_018.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_017.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_016.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_015.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_014.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_013.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_012.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_011.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_010.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_009.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_008.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_007.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_006.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_005.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_004.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_003.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_002.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NOF1/mat/NOF1_001.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_060.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_059.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_058.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_057.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_056.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_055.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_054.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_053.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_052.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_051.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_050.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_049.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_048.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_047.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_046.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_045.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_044.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_043.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_042.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_041.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_040.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_039.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_038.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_037.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_036.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_035.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_034.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_033.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_032.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_031.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_030.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_029.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_028.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_027.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_026.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_025.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_024.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_023.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_022.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_021.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_020.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_019.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_018.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_017.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_016.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_015.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_014.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_013.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_012.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_011.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_010.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_009.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_008.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_007.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_006.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_005.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_004.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_003.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_002.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/png/NCS1_001.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_060.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_059.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_058.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_057.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_056.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_055.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_054.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_053.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_052.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_051.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_050.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_049.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_048.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_047.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_046.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_045.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_044.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_043.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_042.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_041.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_040.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_039.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_038.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_037.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_036.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_035.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_034.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_033.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_032.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_031.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_030.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_029.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_028.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_027.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_026.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_025.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_024.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_023.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_022.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_021.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_020.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_019.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_018.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_017.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_016.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_015.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_014.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_013.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_012.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_011.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_010.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_009.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_008.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_007.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_006.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_005.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_004.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_003.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_002.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/NCS1/mat/NCS1_001.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_016.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_015.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_014.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_013.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_012.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_011.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_010.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_009.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_008.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_007.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_006.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_005.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_004.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_003.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_002.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/png/KAU2_001.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_016.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_015.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_014.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_013.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_012.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_011.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_010.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_009.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_008.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_007.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_006.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_005.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_004.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_003.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_002.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU2/mat/KAU2_001.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_016.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_015.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_014.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_013.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_012.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_011.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_010.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_009.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_008.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_007.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_006.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_005.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_004.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_003.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_002.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/png/KAU1_001.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_016.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_015.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_014.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_013.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_012.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_011.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_010.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_009.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_008.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_007.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_006.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_005.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_004.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_003.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_002.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/KAU1/mat/KAU1_001.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/png/BCH1_004.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/png/BCH1_003.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/png/BCH1_002.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/png/BCH1_001.png
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/mat/BCH1_004.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/mat/BCH1_003.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/mat/BCH1_002.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/input/channels/BCH1/mat/BCH1_001.mat
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1/Watermark/doc/readme.txt
+Сторонний софт и датасеты с релаьными сигналами/Watermark/WatermarkV1.zip
+Сторонний софт и датасеты с релаьными сигналами/Watermark/watermark_final.pdf
+Сторонний софт и датасеты с релаьными сигналами/Watermark/Watermark.URL
+Сторонний софт и датасеты с релаьными сигналами/Watermark/16-01378.pdf
+Сторонний софт и датасеты с релаьными сигналами/Watermark/1523649.pdf
+Сторонний софт и датасеты с релаьными сигналами/Nissel/GitHub - rnisselFBMC Compares FBMC to OFDM based schemes. Reproduces all figures from “Filter bank multicarrier modulation s.URL
+Сторонний софт и датасеты с релаьными сигналами/Nissel/FBMC-master.zip
