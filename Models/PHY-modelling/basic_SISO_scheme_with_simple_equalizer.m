@@ -1,6 +1,5 @@
 % =====================================================================    
-% Это файл создан на оснве исходного файла от Ronald Nissel, rnissel@nt.tuwien.ac.at
-% Реализует эксперимент, описанный в докладе ДКАШФ на EnT 2020
+% Данная программа реализует эксперимент, описанный в докладе ДКАШФ на EnT 2020
 % Сравнивается разные типы многочастотной модуляции в применении к
 % гидроакустическим каналам. В том числе рассматриваются: 
 %       1) OFDM with CP (worst spectral behaviour)
@@ -8,15 +7,17 @@
 %       3) WOLA (windowed OFDM. The windowing is done at TX and RX)
 %       4) FOFDM (filtered OFDM, sinc + Hann, filtering at TX and RX)
 %       5) UFMC (filtered OFDM, subband-wise filtering, Dolph-Chebyshev window, cyclic prefix and zero padding are supported, filtering at TX and RX)
+% В программе используются сторонние библиотеки от Ronald Nissel, rnissel@nt.tuwien.ac.at
+% и датасет Watermark в качестве канала связи https://ieeexplore.ieee.org/document/7932436
 % ===================================================================== 
 
 
 % Пути
 clear; close all;
-addpath('./Theory');
-addpath('./Watermark/BCH1/mat');
-addpath('./Watermark/matlab')
-addpath('./External lib')
+addpath('./External-libs/Watermark-dataset/BCH1/mat');
+addpath('./External-libs/Watermark-dataset/matlab');
+addpath('./External-libs/Nissel-FBMC-OFDM');
+addpath('./External-libs/Nissel-FBMC-OFDM/Theory');
 
 % Параметры для модели канала BCH1                               
 % Загрузка импульсной характеристики BCH1 первый элемент
